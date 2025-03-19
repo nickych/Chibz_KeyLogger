@@ -30,7 +30,7 @@ pip install pynput
 1. Clone the repository:
    ```bash
    git clone https://github.com/nickych/Chibz_KeyLogger.git
-   cd keystroke-logger
+   cd chibz_keylogger
    ```
 2. Install the required dependencies:
    ```bash
@@ -38,7 +38,7 @@ pip install pynput
     
 4. Execute the script:
    ```bash
-   python keylogger.py
+   python chibz_keylogger.py
    ```
 
 The script will begin capturing keystrokes and writing them to `keystrokes.log` in encrypted format.
