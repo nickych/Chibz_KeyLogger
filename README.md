@@ -29,7 +29,7 @@ pip install pynput
 ### Running the Keylogger
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/nickych/Chibz_KeyLogger.git
    cd keystroke-logger
    ```
 2. Install the required dependencies:
